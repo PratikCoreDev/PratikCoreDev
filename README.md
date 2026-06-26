@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently learning and improving day by day
+  🚀 Aspiring Full-Stack Web Developer
+  💻 Currently learning full-stack web development
+  📚 Building projects and improving my skills every day
 
 
 ## 🌐 Socials:
